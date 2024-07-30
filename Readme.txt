@@ -27,7 +27,3 @@ overview of the latest data. It&#39;s also a useful reference if you want to see
 the CONVENIENT data into a pandas DataFrame.
 
 Domain: Healthcare
-
-Model Comparison Report
-Create a report stating the performance of multiple models on this data and
-suggest the best model for production.
